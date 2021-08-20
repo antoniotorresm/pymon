@@ -1,0 +1,4 @@
+PySimpleGUI==4.46.0
+XInput-Python==0.4.0
+git+https://github.com/jmctune/Pymem
+requests==2.26.0
